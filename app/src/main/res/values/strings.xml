@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iTantra v3</string>
+    <string name="team_name">Team MIRAGE</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_communication">Connection</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_history">History</string>
+    <string name="nav_debug">Debug</string>
+
+    <!-- Home Screen -->
+    <string name="ptt_label">HOLD TO TALK</string>
+    <string name="ptt_active">TRANSMITTINGâ€¦</string>
+    <string name="ptt_processing">PROCESSINGâ€¦</string>
+    <string name="connection_connected">CONNECTED</string>
+    <string name="connection_disconnected">DISCONNECTED</string>
+    <string name="connection_connecting">CONNECTINGâ€¦</string>
+    <string name="connection_discovering">DISCOVERINGâ€¦</string>
+    <string name="peer_label">PEER</string>
+    <string name="language_label">LANGUAGE</string>
+    <string name="last_received">Last received message</string>
+    <string name="no_messages">No messages yet</string>
+    <string name="emergency_alert">ðŸš¨ EMERGENCY ALERT</string>
+    <string name="alert_confirm_title">Send Emergency Alert?</string>
+    <string name="alert_confirm_message">This will send a high-priority ALERT to the connected device with audible and visual warnings.</string>
+    <string name="alert_default_text">EMERGENCY ALERT â€” Respond immediately.</string>
+
+    <!-- Communication Screen -->
+    <string name="discover_peers">Discover Devices</string>
+    <string name="stop_discovery">Stop Discovery</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="available_peers">Available Devices</string>
+    <string name="no_peers_found">No devices found</string>
+    <string name="transport_wifi_direct">Wi-Fi Direct</string>
+    <string name="transport_bluetooth">Bluetooth</string>
+    <string name="transport_label">Transport</string>
+
+    <!-- Settings -->
+    <string name="callsign_label">Device Callsign</string>
+    <string name="callsign_hint">e.g., MIRAGE-ALPHA-01</string>
+    <string name="language_selection">Communication Language</string>
+    <string name="transport_selection">Transport Mode</string>
+    <string name="transport_auto">Auto (Wi-Fi Direct preferred)</string>
+    <string name="transport_wifi_only">Wi-Fi Direct Only</string>
+    <string name="transport_bt_only">Bluetooth Only</string>
+    <string name="models_section">AI Models</string>
+    <string name="stt_model">STT Model</string>
+    <string name="tts_model">TTS Model</string>
+    <string name="model_not_installed">Not installed</string>
+    <string name="model_installed">Installed</string>
+    <string name="model_loading">Loadingâ€¦</string>
+    <string name="about_section">About</string>
+
+    <!-- History -->
+    <string name="message_history">Message History</string>
+    <string name="sent_label">Sent</string>
+    <string name="received_label">Received</string>
+    <string name="clear_history">Clear History</string>
+    <string name="no_history">No message history</string>
+
+    <!-- Transmission States -->
+    <string name="state_idle">Idle</string>
+    <string name="state_recording">Recording</string>
+    <string name="state_processing_stt">Processing speechâ€¦</string>
+    <string name="state_encoding">Encoding packetâ€¦</string>
+    <string name="state_transmitting">Transmittingâ€¦</string>
+    <string name="state_receiving">Receivingâ€¦</string>
+    <string name="state_processing_tts">Synthesizing speechâ€¦</string>
+    <string name="state_playing">Playing audioâ€¦</string>
+    <string name="state_error">Error</string>
+
+    <!-- Languages -->
+    <string name="lang_hindi">Hindi</string>
+    <string name="lang_english">English</string>
+    <string name="lang_gujarati">Gujarati</string>
+    <string name="lang_marathi">Marathi</string>
+    <string name="lang_kannada">Kannada</string>
+    <string name="lang_malayalam">Malayalam</string>
+    <string name="lang_tamil">Tamil</string>
+    <string name="lang_telugu">Telugu</string>
+    <string name="lang_odia">Odia</string>
+    <string name="lang_bengali">Bengali</string>
+    <string name="lang_assamese">Assamese</string>
+</resources>

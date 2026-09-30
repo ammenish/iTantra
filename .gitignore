@@ -1,0 +1,61 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# iTantra – Git Ignore
+# ──────────────────────────────────────────────────────────────────────────────
+
+# ── Gradle ──
+.gradle/
+build/
+app/build/
+**/build/
+
+# ── IDE ──
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# ── Kotlin ──
+.kotlin/
+
+# ── Local Config (contains machine-specific paths – NEVER commit) ──
+local.properties
+
+# ── Crash/Debug Logs (multi-MB, never committed) ──
+crash_log*.txt
+logcat*.txt
+
+# ── Scratch / Temp Files ──
+scratch/
+src_staging/
+*.tmp
+*.bak
+
+# ── Tools / JDK bundles (downloadable, not committed) ──
+tools/
+
+# ── Build Artifacts & Binaries ──
+*.apk
+*.aab
+*.ap_
+*.dex
+classes.jar
+
+# ── Signing ──
+*.jks
+*.keystore
+*.key
+*.pem
+*.p12
+
+# ── Presentation / Media ──
+presentation.pdf
+
+# ── Agent / AI config (project-local only) ──
+.agents/
+
+# ── HuggingFace ──
+HF_README.md
+iTANTRA_Agent_Brief.md
