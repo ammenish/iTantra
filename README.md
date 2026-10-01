@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="docs/banner.png" alt="iTantra Banner" width="800"/>
-</p>
+
 
 <h1 align="center">📡 iTantra</h1>
 
