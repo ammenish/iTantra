@@ -246,7 +246,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👥 Team
 
-**Team MIRAGE** — Built for the ISRO Problem Statement on offline multilingual communication systems.
+**Team Quantum Vision** — Built for the ISRO Problem Statement on offline multilingual communication systems.
 
 ---
 
